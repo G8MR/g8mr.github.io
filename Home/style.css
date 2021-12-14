@@ -41,7 +41,7 @@ h1 {
   }
 
 body {
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("code-coding.gif");
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("BG-mainpage.jpg"); /* The image used */
     background-color: #cccccc;
     height: 500px; 
     background-position: center;
