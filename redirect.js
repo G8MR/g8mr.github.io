@@ -1,1 +1,1 @@
-location.replace("http://awesomeyoungcoder.github.com/Home/")
+location.replace("http://awesomeyoungcoder.github.io/Home/");
