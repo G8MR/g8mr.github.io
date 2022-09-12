@@ -1,1 +1,1 @@
-window.location.replace("https://awesomeyoungcoder.github.io/Home/");
+window.location.replace("https://g8mr.github.io/Home/");
