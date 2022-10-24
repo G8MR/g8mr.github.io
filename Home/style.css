@@ -1,0 +1,47 @@
+* {
+    margin: auto;
+}
+
+.logo {
+    background-color: #000000;
+    padding: 25px;
+    margin: 0px, 0px, 0px, 0px;
+}
+
+.logo img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 38%
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.head1, .para1, .para2, .para3, .para4{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.menubar {
+    position: fixed;
+    display: block;
+    background-color: #000000;
+    padding-left: 50px;
+    padding-right: 64.25%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.menubar a {
+    color: #ffffff;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.stats img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
